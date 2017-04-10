@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core.iml" filepath="$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core.iml" group="../biz.ganttproject.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core_main.iml" group="../biz.ganttproject.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1668714587/biz.ganttproject.core_test.iml" group="../biz.ganttproject.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical.iml" filepath="$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical.iml" group="../biz.ganttproject.impex.ical" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical_main.iml" group="../biz.ganttproject.impex.ical" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1393429904/biz.ganttproject.impex.ical_test.iml" group="../biz.ganttproject.impex.ical" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2.iml" filepath="$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2.iml" group="../biz.ganttproject.impex.msproject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2_main.iml" group="../biz.ganttproject.impex.msproject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-276533654/biz.ganttproject.impex.msproject2_test.iml" group="../biz.ganttproject.impex.msproject2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/526621623/ganttproject.iml" filepath="$PROJECT_DIR$/.idea/modules/526621623/ganttproject.iml" group="../ganttproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ganttproject-builder.iml" filepath="$PROJECT_DIR$/.idea/modules/ganttproject-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ganttproject-builder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ganttproject-builder_main.iml" group="ganttproject-builder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ganttproject-builder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ganttproject-builder_test.iml" group="ganttproject-builder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/526621623/ganttproject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/526621623/ganttproject_main.iml" group="../ganttproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/526621623/ganttproject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/526621623/ganttproject_test.iml" group="../ganttproject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert.iml" filepath="$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert.iml" group="../org.ganttproject.chart.pert" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert_main.iml" group="../org.ganttproject.chart.pert" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1893368212/org.ganttproject.chart.pert_test.iml" group="../org.ganttproject.chart.pert" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf.iml" filepath="$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf.iml" group="../org.ganttproject.impex.htmlpdf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf_main.iml" group="../org.ganttproject.impex.htmlpdf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1238143413/org.ganttproject.impex.htmlpdf_test.iml" group="../org.ganttproject.impex.htmlpdf" />
+    </modules>
+  </component>
+</project>

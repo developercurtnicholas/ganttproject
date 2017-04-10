@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="biz.ganttproject.core_main" target="1.8" />
+      <module name="biz.ganttproject.core_test" target="1.8" />
+      <module name="biz.ganttproject.impex.ical_main" target="1.8" />
+      <module name="biz.ganttproject.impex.ical_test" target="1.8" />
+      <module name="biz.ganttproject.impex.msproject2_main" target="1.8" />
+      <module name="biz.ganttproject.impex.msproject2_test" target="1.8" />
+      <module name="ganttproject-builder_main" target="1.8" />
+      <module name="ganttproject-builder_test" target="1.8" />
+      <module name="ganttproject_main" target="1.8" />
+      <module name="ganttproject_test" target="1.8" />
+      <module name="org.ganttproject.chart.pert_main" target="1.8" />
+      <module name="org.ganttproject.chart.pert_test" target="1.8" />
+      <module name="org.ganttproject.impex.htmlpdf_main" target="1.8" />
+      <module name="org.ganttproject.impex.htmlpdf_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
